@@ -107,70 +107,92 @@ INSERT INTO skills VALUES (
 );
 
 
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   1, 'Jack', 'Pepper', 10, 1
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   2, 'Harry', 'Campbell', 2,1
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   3,  'Charlie', 'Gray', 2,1
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   4, 'Benjamin', 'Wood', 4,1
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   5, 'Andy','Weir',7,5
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   6, 'Nathaniel','Bean',14,4
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   7, 'Christopher','Wells',34,4
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   8, 'Louis','Hawkins', 20, 4
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   9, 'Aiden','Mills', 2, 4
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   10, 'Kevin','Nash',3,2
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers(developer_id, first_name, last_name, experience, company_id)
+VALUES (
   11, 'Andres','Bowen',23,2
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   12, 'Kevin','Weaver',1,2
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   13, 'Anthony','John',10,3
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   14, 'Brandon','Williamson',3,3
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   15, 'Paul','Murphy',1,7
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   16, 'Vidar','Melberg',21,7
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   17, 'Kurt','Heggen',8,7
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   18, 'Kristian','Mogensen',9,7
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   19, 'Olaf','Bentzen',1,7
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   20, 'Jhanda','Gandhi',30,6
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   21, 'Rizvan','Khan',34,6
 );
-INSERT INTO developers VALUES (
+INSERT INTO developers (developer_id, first_name, last_name, experience, company_id)
+VALUES (
   22, 'Sumit','Thakur',11,6
 );
 
