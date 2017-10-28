@@ -294,9 +294,6 @@ INSERT INTO dev_skills VALUES (
   3,  4
 );
 INSERT INTO dev_skills VALUES (
-  4, 1
-);
-INSERT INTO dev_skills VALUES (
   4, 2
 );
 INSERT INTO dev_skills VALUES (
@@ -345,15 +342,6 @@ INSERT INTO dev_skills VALUES (
   10, 12
 );
 INSERT INTO dev_skills VALUES (
-  11, 1
-);
-INSERT INTO dev_skills VALUES (
-  11, 8
-);
-INSERT INTO dev_skills VALUES (
-  12, 7
-);
-INSERT INTO dev_skills VALUES (
   12, 2
 );
 INSERT INTO dev_skills VALUES (
@@ -361,9 +349,6 @@ INSERT INTO dev_skills VALUES (
 );
 INSERT INTO dev_skills VALUES (
   14, 1
-);
-INSERT INTO dev_skills VALUES (
-  15, 1
 );
 INSERT INTO dev_skills VALUES (
   15, 7
@@ -407,11 +392,11 @@ INSERT INTO dev_skills VALUES (
   21, 2
 );
 INSERT INTO dev_skills VALUES (
-  21, 8
-);
-INSERT INTO dev_skills VALUES (
   22, 1
 );
+
+
+
 
 
 INSERT INTO dev_projects VALUES (
