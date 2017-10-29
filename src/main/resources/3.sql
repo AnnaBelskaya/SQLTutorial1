@@ -1,4 +1,6 @@
-SELECT SUM(salary) 
+# Вычислить общую ЗП всех Java разработчиков.
+
+SELECT SUM(salary)
 FROM developers
 WHERE developer_id IN (
   SELECT developer_id
