@@ -69,8 +69,8 @@ VALUES (
 INSERT INTO skills (skill_name) VALUES (
   'Java'
 );
-  INSERT INTO skills (skill_name) VALUES (
-    'SQL'
+INSERT INTO skills (skill_name) VALUES (
+  'SQL'
 );
 INSERT INTO skills (skill_name) VALUES (
   'C++'
