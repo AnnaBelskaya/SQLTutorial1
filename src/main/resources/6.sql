@@ -1,6 +1,7 @@
 #Вычислить, среднюю ЗП программистов в проекте, который приносит наименьшую прибыль.
 
-SELECT dev_projects.project_id, projects.project_name, AVG(developers.salary)
+SELECT dev_projects.project_id, projects.project_name,
+  AVG(developers.salary) as average_salary
 FROM dev_projects
 JOIN developers
 ON developers.developer_id = dev_projects.developer_id
